@@ -1,0 +1,5 @@
+Write a genetic algorithm program (use binary encoding, 1-pont crossover, fitness
+proportionate selection and bit mutation) to maximize the function f(x) = x^2 for x= 0..63 and
+show the results in a graph (max, avg & min)running for 50 generations and until the population
+converges. Take an initial random population of size 20, include all assumptions you made in
+your implementation.
